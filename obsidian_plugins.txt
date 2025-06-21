@@ -1,0 +1,4 @@
+Obsidian Plugins
+Iconize -- add icons to stuff
+Commander -- create more complex macros/commands
+Dataview -- dynamic tables using data from other notes
