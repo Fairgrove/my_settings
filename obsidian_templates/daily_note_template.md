@@ -1,5 +1,5 @@
-area: [[Real life]]
-tags: #daily #note 
+
+🏷️ tags: #{{date}} 
 # {{date:dddd DD-MM-YYYY}}
 ## To Do Today
 - [ ] 
